@@ -4,11 +4,11 @@
   "description": "Video page",
   "main": "server/app.js",
   "dependencies": {
-    "@financial-times/n-express": "^17.16.1",
+    "@financial-times/n-express": "^19.18.0",
     "@financial-times/n-logger": "^5.4.6",
     "forever": "^0.15.3",
     "http-errors": "^1.5.1",
-    "n-health": "^1.10.4"
+    "n-health": "^3.3.0"
   },
   "devDependencies": {
     "@financial-times/n-heroku-tools": "^6.14.10",
