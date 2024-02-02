@@ -5,7 +5,7 @@
   "main": "server/app.js",
   "dependencies": {
     "@financial-times/n-express": "^17.16.1",
-    "@financial-times/n-logger": "^5.4.6",
+    "@financial-times/n-logger": "^10.3.1",
     "forever": "^0.15.3",
     "http-errors": "^1.5.1",
     "n-health": "^1.10.4"
